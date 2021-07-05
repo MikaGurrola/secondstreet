@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/secondstreet/static/css/main.a448b543.chunk.css",
+    "main.js": "/secondstreet/static/js/main.4a7b807d.chunk.js",
+    "main.js.map": "/secondstreet/static/js/main.4a7b807d.chunk.js.map",
+    "runtime-main.js": "/secondstreet/static/js/runtime-main.612da05f.js",
+    "runtime-main.js.map": "/secondstreet/static/js/runtime-main.612da05f.js.map",
+    "static/js/2.48f21dbd.chunk.js": "/secondstreet/static/js/2.48f21dbd.chunk.js",
+    "static/js/2.48f21dbd.chunk.js.map": "/secondstreet/static/js/2.48f21dbd.chunk.js.map",
+    "static/js/3.3cba2f33.chunk.js": "/secondstreet/static/js/3.3cba2f33.chunk.js",
+    "static/js/3.3cba2f33.chunk.js.map": "/secondstreet/static/js/3.3cba2f33.chunk.js.map",
+    "index.html": "/secondstreet/index.html",
+    "static/css/main.a448b543.chunk.css.map": "/secondstreet/static/css/main.a448b543.chunk.css.map",
+    "static/js/2.48f21dbd.chunk.js.LICENSE.txt": "/secondstreet/static/js/2.48f21dbd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/secondstreet/static/media/second-offset.28375fb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612da05f.js",
+    "static/js/2.48f21dbd.chunk.js",
+    "static/css/main.a448b543.chunk.css",
+    "static/js/main.4a7b807d.chunk.js"
+  ]
+}
